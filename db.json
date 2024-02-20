@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Spotify Clone",
+      "description": "I practiced using HTML and CSS by cloning the Spotify interface.",
+      "languages": "HTML5, CSS3",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1707930033/spotify_dbzexe.png",
+      "linkgit": "https://github.com/ttuyen203/Spotify-Clone"
+    },
+    {
+      "id": "e95b",
+      "name": "Admin Layout ",
+      "description": "I have utilized HTML, CSS, and JS to create a flexible and user-friendly admin interface.",
+      "languages": "HTML5, CSS3, JS",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1708405044/Screenshot_2024-02-20_115559_ir56f7.png",
+      "linkgit": "https://github.com/ttuyen203/Admin-Layout"
+    },
+    {
+      "id": "e4e8",
+      "name": "test project l2",
+      "description": "test description l2",
+      "languages": "HTML, CSS, JS",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1707930033/spotify_dbzexe.png",
+      "linkgit": "https://github.com/ttuyen203/Spotify-Clone"
+    },
+    {
+      "id": "a500",
+      "name": "test project l2",
+      "description": "test description l2",
+      "languages": "HTML, CSS, JS",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1706776960/cld-sample-5.jpg",
+      "linkgit": "https://github.com/ttuyen203/Admin-Layout"
+    }
+  ]
+}
